@@ -1,5 +1,6 @@
 # Deploy `Starbucks Clone` on `AWS` using a `DevSecOps` Approach
-![Starbucks-project-Thumbnail](https://github.com/user-attachments/assets/61144fb7-0bc0-47a8-a7a2-d0d05bf374eb)
+![Uploading image.png…]()
+
 
 # **Install `AWS CLI`**
 ```
